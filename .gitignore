@@ -36,4 +36,4 @@ htmlcov/
 # OS
 .DS_Store
 
-server/data.json
+server/data/
